@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import imp
+import importlib
 import io
 import sys
 import os
